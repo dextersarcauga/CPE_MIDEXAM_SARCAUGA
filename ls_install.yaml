@@ -1,0 +1,4 @@
+---
+  hosts: LS_SERVER
+  become: true
+  tasks:

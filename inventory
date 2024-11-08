@@ -1,0 +1,14 @@
+[ES_SERVER]
+server1 ansible_host=192.168.56.132 ansible_user=dexter
+server3 ansible_host=192.168.56.134 ansible_user=dsarcauga
+
+[LS_SERVER]
+server1 ansible_host=192.168.56.132 ansible_user=dexter
+server3 ansible_host=192.168.56.134 ansible_user=dsarcauga
+
+[UBUNTU]
+server1 ansible_host=192.168.56.132 ansible_user=dexter
+
+[CENTOS]
+server3 ansible_host=192.168.56.134 ansible_user=dsarcauga
+
